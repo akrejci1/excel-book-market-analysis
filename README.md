@@ -78,7 +78,7 @@ The generated order was immediately pasted as static values to prevent recalcula
 
 Hardcover titles show the highest discount variability, making their pricing least predictable. Board books are the most consistent.
 
-### Price–Discount Relationship (Bonus)
+### Price–Discount Relationship
 
 A positive correlation exists between pre-campaign price and absolute discount. The most expensive quartile (Q4) averaged **150.56 CZK** in savings, suggesting a deliberate strategy of high nominal discounts on premium titles to maximize perceived value.
 
